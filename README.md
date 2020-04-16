@@ -1,4 +1,5 @@
 # Fundamentals-of-compiling-Flex-
+运行环境是linux。关于flex的安装、使用、以及语法规则的说明。请参考博文[linux下flex构造词法生成器(从安装到实现——傻瓜教程)](https://blog.csdn.net/weixin_43165068/article/details/105550886)
 ## demo1.l
 此文件就是词法生成器代码
 ## lexdemo.yy.c
