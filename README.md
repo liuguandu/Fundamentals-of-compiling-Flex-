@@ -8,4 +8,4 @@
 此文件是通过lexdemo.yy.c生成的可执行文件
 ## test.txt
 此文件是测试代码，lexdemo可直接执行test.txt
-## demo1.l文件有些小bug，过段时间再上传。
+## demo1.l文件已更新，修复了部分bug(大家可自行撰写TXT文件的测试代码)。
